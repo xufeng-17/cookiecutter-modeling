@@ -1,5 +1,1 @@
-{
-    "programe_name": "客户",
-    "date": "202001",
-    "project_slug" : "{{cookiecutter.customer_name + cookiecutter.date }}"
-}
+{"programe_name":"programe","date":"202001","project_slug":"{{cookiecutter.programe_name + cookiecutter.date }}"}
